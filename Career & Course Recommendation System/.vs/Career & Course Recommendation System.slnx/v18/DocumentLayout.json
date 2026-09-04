@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\skillsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\skillsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\interestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\interestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\interestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\interestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\skillsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\skillsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\courserecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\courserecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\careerrecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\careerrecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\courserecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\courserecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|d:\\6th sem\\c#\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\career \u0026 course recommendation system\\careerrecommendationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\careerrecommendationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\careerrecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57B84631-045F-20F0-9AB4-87E3A187D333}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\careerrecommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32754C37-A0CE-48EE-87DB-147CB69EB7CB}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32754C37-A0CE-48EE-87DB-147CB69EB7CB}|Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System.csproj|solutionrelative:career \u0026 course recommendation system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAqwH0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:09:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillsForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAYwCEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:28:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:31:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterestForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAYwGYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:29:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "ViewState": "AgIAADsDAAAAAAAAAAAYwFUDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:39:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\ProfileForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:30:59.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterestForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\InterestForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\InterestForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\InterestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:29:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkillsForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\SkillsForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\SkillsForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\SkillsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:28:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T07:56:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAQwH8BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:43:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Data\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\Data\\DatabaseManager.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Data\\DatabaseManager.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\Data\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T06:03:30.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\RegistrationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:41:26.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseRecommendationForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:57:34.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T19:19:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CareerRecommendationForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:11:26.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseRecommendationForm.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\CourseRecommendationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:57:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CareerRecommendationForm.Designer.cs",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.Designer.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.Designer.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.Designer.cs",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T13:49:36.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\DashboardForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T08:38:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CareerRecommendationForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\CareerRecommendationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:10:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Career \u0026 Course Recommendation System\\LoginForm.cs",
+              "ToolTip": "D:\\6th Sem\\C#\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\Career \u0026 Course Recommendation System\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Career \u0026 Course Recommendation System\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:08:45.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
